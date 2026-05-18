@@ -1,0 +1,441 @@
+<html>
+<head>
+<meta name="referrer" content="origin">
+<title>
+제목표시줄 -AI 강사 양성교육
+</title>
+</head>
+<body>
+
+<p>
+<br>
+  이 곳부터가 본문의 시작입니다
+  <br>
+  <br>
+한국장애인고용공단 일산 직업능력개발원의 AI 강사 양성교육 프로그램에 참여해 주셔서 감사합니다.
+  <BR>
+여러분들의 앞날에 항상 행운이 가득하길 응원 합니다.
+  <br>
+이 웹 페이지는 인터넷에서 활용되는 센스리더의 각종 기능에 대해 학습할 목적으로 제작된 웹 페이지 입니다.
+  <br>
+먼저   센스리더의 가상커서 줄 단위에 관해 알아보겠습니다
+  <br>
+  다음은 제가 평소에 좋아하는 글입니다. 같이 감상해 보시겠습니까?<br>
+  <br>
+  그대 그런 사람을 가졌는가?<br>
+  <br>
+  함석헌<br>
+  <br>
+  <br>
+  
+  만리 길 나서는 길 처자를 내맡기며  맘놓고 갈 만한 사람 그 사람을 그대는 가졌는가? 온 세상이 다 나를 버려 마음이 외로울 때에도 ＂저 맘이야＂하고 믿어지는 그 사람을 그대는 가졌는가? 탔던 배 꺼지는 시간 구명대 서로 사양하며 ＂너만은 제발 살아다오＂ 할 그 사람을 그대는 가졌는가? 불의의 사형장에서 ＂다 죽어도 너희 세상 빛을 위해 저만은 살려 두거라＂ 일러 줄 그 사람을 그대는 가졌는가? 잊지 못할 이 세상을 놓고 떠나려 할 때 ＂저 하나 있으니＂ 하며 빙긋이 웃고 눈을 감을 그 사람을 그대는 가졌는가? 온 세상의 찬성보다도 ＂아니＂하고 가만히 머리 흔들 그 한 얼굴 생각에 알뜰한 유혹을 물리치게 되는 그 사람을 그대는 가졌는가?
+  <br>
+  <br>
+<h2>다음은 이미지에 관해 알아봅시다.</h2> 
+<p><img src="MEDIA/balloon.jpg" width="400" height="300"></p>
+<p><img src="MEDIA/flower.jpg" alt="국화꽃" width="400" height="273"></p>
+  <br>
+  <br>
+</p>
+<h2>링크의 개념에 관하여 알아볼까요.</h2> <br>
+  <br>
+<h3>먼저 텍스트만으로 이루어진 링크입니다.</h3><br>
+  <br>
+  <A HREF="https://www.nextg.kr/">기술로 나눔의 가치를 실천하는 기업 넥스트지
+    홈페이지</A>로 연결하기 <BR>
+  </A>
+  <br>
+<h3>이번에는 이미지 링크에 관하여 알아봅시다.</h3><br>
+  <br>
+  다음은 제가 자주 방문하는 인터넷 사이트 입니다.<br>
+ <a href="https://chatgpt.com/ko-KR/"><img src="MEDIA/gpt_logo.png" alt="탕수육" width="150" height="150"></a><br>
+ <a href="https://gemini.google.com/app/"><img src="MEDIA/gem_logo.png" alt="구글 제미나이" width="150" height="150"></a><br>
+  <br>
+<h2>이번에는 각종 폼 양식에 관하여 알아봅니다.</h2><br>
+  <br>
+<h3>먼저 편집창에 관하여 알아봅니다.</h3><br>
+  <br>
+  넓은마을의 아이디와 비밀번호를 적어주세요 <br>
+  <br>
+  아이디:
+  <INPUT type=TEXT >
+  비밀번호:
+  <INPUT type=PASSWORD>	
+  <br>
+  <br>
+	이번에는 레이블이 적용된 편집창 입니다.<br>
+	통합 검색
+  <INPUT type=TEXT >
+  <br>
+	<br>
+ <h3>이번에는 라디오버튼에 관하여 알아봅니다.</h3><br>
+  <br>
+  당신의 성별은 무엇입니까 <br>
+  <br>
+  <input type="radio" name=aa>
+  남자
+  <input type="radio" name=aa>
+  여자 <br>
+  <br>
+ <h3>이번에는 콤보상자에 관하여 알아봅니다.</h3><br>
+  <br>
+  좋아하는 동물을 선택하세요 <br>
+  <br>
+  <select name="where">
+    <option value="title">사자 
+    <option value="comment">호랑이 
+    <option value="name">사슴 
+    <option value="name">토끼 
+    </select>
+  <br>
+  <br>
+  <br>
+ <h3>이번에는 체크상자에 관하여 알아봅니다.</h3><br>
+  <br>
+  당신이 좋아하는 색깔을 선택하세요 <br>
+  <br>
+  <input type="checkbox" name="nosound"  >
+  파란색
+  <input type="checkbox" name="nosound" >
+  노란색
+  <input type="checkbox" name="nosound" >
+  빨간색
+  <input type="checkbox" name="nosound" >
+  녹색
+  <input type="checkbox" name="nosound" >
+  보라 <br>
+  <br>
+ <h3>이번에는 멀티라인 편집창에 관하여 알아봅니다.</h3><br>
+  <br>
+  당신이 하고픈 말씀을 적어주세요. <br>
+  <br>
+  <textarea name="content" cols="55" rows="15" class="input" ></textarea>
+  <br>
+  <br>
+  
+  <br>
+<h3>버튼에 관하여 알아봅니다.</h3><br>
+  <br>
+  <INPUT type=button value="확인">
+  <INPUT type=button  value="취소">
+  <INPUT type=submit value="보내기">
+  <INPUT type=reset value="다시작성">
+</p>
+<h2><p>다음은 테이블에 관하여 알아봅니다.</p></h2>
+<table border="1" cellpadding="5" cellspacing="0" bordercolor="#000000">
+  <tr>
+    <td valign="middle"><p>이름</p></td>
+    <td valign="middle"><p>국어</p></td>
+    <td valign="middle"><p>영어</p></td>
+    <td valign="middle"><p>수학</p></td>
+    <td valign="middle"><p>총점</p></td>
+    <td valign="middle"><p>평균</p></td>
+  </tr>
+  <tr>
+    <td valign="middle"><p>장길산</p></td>
+    <td valign="middle"><p><span lang="EN-US">88</span></p></td>
+    <td valign="middle"><p><span lang="EN-US">75</span></p></td>
+    <td valign="middle"><p><span lang="EN-US">90</span></p></td>
+    <td valign="middle"><p><span lang="EN-US">253</span></p></td>
+    <td valign="middle"><p><span lang="EN-US">84.33</span></p></td>
+  </tr>
+  <tr>
+    <td valign="middle"><p>홍길동</p></td>
+    <td valign="middle"><p><span lang="EN-US">90</span></p></td>
+    <td valign="middle"><p><span lang="EN-US">82</span></p></td>
+    <td valign="middle"><p><span lang="EN-US">46</span></p></td>
+    <td valign="middle"><p><span lang="EN-US">218</span></p></td>
+    <td valign="middle"><p><span lang="EN-US">72.67</span></p></td>
+  </tr>
+  <tr>
+    <td valign="middle"><p>임꺽정</p></td>
+    <td valign="middle"><p><span lang="EN-US">98</span></p></td>
+    <td valign="middle"><p><span lang="EN-US">78</span></p></td>
+    <td valign="middle"><p><span lang="EN-US">90</span></p></td>
+    <td valign="middle"><p><span lang="EN-US">266</span></p></td>
+    <td valign="middle"><p><span lang="EN-US">88.67</span></p></td>
+  </tr>
+  <tr>
+    <td valign="middle"><p>총점</p></td>
+    <td valign="middle"><p><span lang="EN-US">276</span></p></td>
+    <td valign="middle"><p><span lang="EN-US">235</span></p></td>
+    <td valign="middle"><p><span lang="EN-US">226</span></p></td>
+    <td valign="middle"><p><span lang="EN-US">737</span></p></td>
+    <td valign="middle"><p><span lang="EN-US">245.67</span></p></td>
+  </tr>
+  
+</table>
+<p>&nbsp;</p>
+<p>
+</p>
+<p>
+					<table class="kbo">
+						<caption>2026 KBO리그 팀순위</caption>
+						<thead>
+						<tr>
+							<th scope="col" class="th_num"><span class="blind">순위</span></th>
+							<th scope="col" class="th_team"><span>팀명</span></th>
+							<th scope="col"><span>승률</span></th>
+							<th scope="col"><span>게임차</span></th>
+							<th scope="col"><span>승</span></th>
+							<th scope="col"><span>무</span></th>
+							<th scope="col"><span>패</span></th>
+							<th scope="col"><span>경기</span></th>
+							<th scope="col"><span>연속</span></th>
+							<th scope="col"><span>타율</span></th>
+						</tr>
+						</thead>
+						<tbody>
+						
+							<tr class="best">
+								<th scope="row"><span>1</span></th>
+								<td>
+									<div class="wrap">
+										<div class="image emblem">
+											<img width="20" height="20" src="http://sports-phinf.pstatic.net/team/kbo/default/KT.png" alt="">
+										</div>
+										<div class="info">
+											<span class="name">KT</span>
+										</div>
+									</div>
+								</td>
+								
+								
+									
+								
+								<td><span class="point_blue">0.632</span></td>
+								<td><span class="point_blue">0.0</span></td>
+								<td><span class="point_blue">24</span></td>
+								<td><span class="point_blue">1</span></td>
+								<td><span class="point_blue">14</span></td>
+								<td><span class="point_blue">39</span></td>
+								<td><span class="point_blue">1패</span></td>
+								<td><span class="point_blue">0.285</span></td>
+							</tr>
+						
+							<tr >
+								<th scope="row"><span>2</span></th>
+								<td>
+									<div class="wrap">
+										<div class="image emblem">
+											<img width="20" height="20" src="http://sports-phinf.pstatic.net/team/kbo/default/SS.png" alt="">
+										</div>
+										<div class="info">
+											<span class="name">삼성</span>
+										</div>
+									</div>
+								</td>
+								
+								
+								<td><span class="">0.605</span></td>
+								<td><span class="">1.0</span></td>
+								<td><span class="">23</span></td>
+								<td><span class="">1</span></td>
+								<td><span class="">15</span></td>
+								<td><span class="">39</span></td>
+								<td><span class="">1승</span></td>
+								<td><span class="">0.272</span></td>
+							</tr>
+						
+							<tr >
+								<th scope="row"><span>3</span></th>
+								<td>
+									<div class="wrap">
+										<div class="image emblem">
+											<img width="20" height="20" src="http://sports-phinf.pstatic.net/team/kbo/default/LG.png" alt="">
+										</div>
+										<div class="info">
+											<span class="name">LG</span>
+										</div>
+									</div>
+								</td>
+								
+								
+								<td><span class="">0.590</span></td>
+								<td><span class="">1.5</span></td>
+								<td><span class="">23</span></td>
+								<td><span class="">0</span></td>
+								<td><span class="">16</span></td>
+								<td><span class="">39</span></td>
+								<td><span class="">1패</span></td>
+								<td><span class="">0.271</span></td>
+							</tr>
+						
+							<tr >
+								<th scope="row"><span>4</span></th>
+								<td>
+									<div class="wrap">
+										<div class="image emblem">
+											<img width="20" height="20" src="http://sports-phinf.pstatic.net/team/kbo/default/SK.png" alt="">
+										</div>
+										<div class="info">
+											<span class="name">SSG</span>
+										</div>
+									</div>
+								</td>
+								
+								
+								<td><span class="">0.553</span></td>
+								<td><span class="">3.0</span></td>
+								<td><span class="">21</span></td>
+								<td><span class="">1</span></td>
+								<td><span class="">17</span></td>
+								<td><span class="">39</span></td>
+								<td><span class="">1승</span></td>
+								<td><span class="">0.268</span></td>
+							</tr>
+						
+							<tr >
+								<th scope="row"><span>5</span></th>
+								<td>
+									<div class="wrap">
+										<div class="image emblem">
+											<img width="20" height="20" src="http://sports-phinf.pstatic.net/team/kbo/default/HT.png" alt="">
+										</div>
+										<div class="info">
+											<span class="name">KIA</span>
+										</div>
+									</div>
+								</td>
+								
+								
+								<td><span class="">0.487</span></td>
+								<td><span class="">5.5</span></td>
+								<td><span class="">19</span></td>
+								<td><span class="">1</span></td>
+								<td><span class="">20</span></td>
+								<td><span class="">40</span></td>
+								<td><span class="">2승</span></td>
+								<td><span class="">0.258</span></td>
+							</tr>
+						
+							<tr >
+								<th scope="row"><span>6</span></th>
+								<td>
+									<div class="wrap">
+										<div class="image emblem">
+											<img width="20" height="20" src="http://sports-phinf.pstatic.net/team/kbo/default/HH.png" alt="">
+										</div>
+										<div class="info">
+											<span class="name">LG</span>
+										</div>
+									</div>
+								</td>
+								
+								<td><span class="">0.462</span></td>
+								<td><span class="">6.5</span></td>
+								<td><span class="">18</span></td>
+								<td><span class="">0</span></td>
+								<td><span class="">21</span></td>
+								<td><span class="">39</span></td>
+								<td><span class="">1승</span></td>
+								<td><span class="">0.281</span></td>
+							</tr>
+						
+							<tr >
+								<th scope="row"><span>6</span></th>
+								<td>
+									<div class="wrap">
+										<div class="image emblem">
+											<img width="20" height="20" src="http://sports-phinf.pstatic.net/team/kbo/default/OB.png" alt="">
+										</div>
+										<div class="info">
+											<span class="name">두산</span>
+										</div>
+									</div>
+								</td>
+								
+																								<td><span class="">0.462</span></td>
+								<td><span class="">6.5</span></td>
+								<td><span class="">18</span></td>
+								<td><span class="">1</span></td>
+								<td><span class="">21</span></td>
+								<td><span class="">40</span></td>
+								<td><span class="">2패</span></td>
+								<td><span class="">0.250</span></td>
+							</tr>
+						
+							<tr >
+								<th scope="row"><span>8</span></th>
+								<td>
+									<div class="wrap">
+										<div class="image emblem">
+											<img width="20" height="20" src="http://sports-phinf.pstatic.net/team/kbo/default/NC.png" alt="">
+										</div>
+										<div class="info">
+											<span class="name">NC</span>
+										</div>
+									</div>
+								</td>
+								
+																								<td><span class="">0.447</span></td>
+								<td><span class="">7.0</span></td>
+								<td><span class="">17</span></td>
+								<td><span class="">1</span></td>
+								<td><span class="">21</span></td>
+								<td><span class="">39</span></td>
+								<td><span class="">1승</span></td>
+								<td><span class="">0.264</span></td>
+							</tr>
+						
+							<tr >
+								<th scope="row"><span>9</span></th>
+								<td>
+									<div class="wrap">
+										<div class="image emblem">
+											<img width="20" height="20" src="http://sports-phinf.pstatic.net/team/kbo/default/NC.png" alt="">
+										</div>
+										<div class="info">
+											<span class="name">롯데</span>
+										</div>
+									</div>
+								</td>
+								
+								
+								<td><span class="">0.405</span></td>
+								<td><span class="">8.5</span></td>
+								<td><span class="">15</span></td>
+								<td><span class="">1</span></td>
+								<td><span class="">22</span></td>
+								<td><span class="">38</span></td>
+								<td><span class="">1패</span></td>
+								<td><span class="">0.256</span></td>
+							</tr>
+						
+							<tr >
+								<th scope="row"><span>10</span></th>
+								<td>
+									<div class="wrap">
+										<div class="image emblem">
+											<img width="20" height="20" src="http://sports-phinf.pstatic.net/team/kbo/default/WO.png" alt="">
+										</div>
+										<div class="info">
+											<span class="name">키움</span>
+										</div>
+									</div>
+								</td>
+								
+								
+								<td><span class="">0.359</span></td>
+								<td><span class="">10.5</span></td>
+								<td><span class="">14</span></td>
+								<td><span class="">1</span></td>
+								<td><span class="">25</span></td>
+								<td><span class="">40</span></td>
+								<td><span class="">1패</span></td>
+								<td><span class="">0.226</span></td>
+							</tr>
+						
+						</tbody>
+					</table>
+</p>
+
+<!--
+<h2><p>마지막으로 음악과 동영상을 재생 해봅시다.</p></h2>
+<p><embed src="MEDIA/music.mp3" autostart="false" hidden="false"></embed></p>
+<p>&nbsp;</p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SRk-ooHLbbs?playsinline=1" referrerpolicy='strict-origin-when-cross-origin' frameborder="0" allowfullscreen></iframe>
+<p>&nbsp;</p>
+-->
+</body>
+</html>

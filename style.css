@@ -1,0 +1,69 @@
+*{padding:0; margin:0; box-sizing: border-box;}
+:lang(ko) {
+  letter-spacing: 0.08em;
+  line-height: 1.35;
+}
+body { background-color: rgb(245 255 251); padding: 0.5em 1.5em;}
+p { margin-block:0.5rem; }
+blockquote, section, div.box {  margin-block:1rem; padding-block:0.5rem; }
+h2,h3,h4,h5,h6 { margin-block:1em; }
+
+section:not(:has(h3)) {
+  background-color: rgb(255 255 255 / .5); padding-inline: 1rem;
+  box-shadow: 0 0 0.2em rgb(0 0 0 / .3);
+  border-radius: 0.5em;
+}
+section:has(>h3) { 
+  background-color: rgb(255 255 255 / .5); padding-inline: 1rem;
+  box-shadow: 0 0 0.2em rgb(0 0 0 / .3);
+  border-radius: 0.5em;
+}
+blockquote {
+  min-width:300px; max-width:600px; margin-inline: 1em;
+  display: flex; flex-direction: column;
+  gap: 1em; text-align: center; line-height: 2;
+  > cite {  margin-block: 0.5rem; display: block; text-align: right; }
+}
+
+ul:has(img) { padding:1em; list-style: none;}
+#red:checked {accent-color:#ef2525;}
+#yellow:checked {accent-color: #ffff00;}
+#green:checked {accent-color: #007f00;}
+#purple {accent-color:#7f15c5;}
+
+#content_field {
+  resize: none;
+}
+/* 서식 - 로그인 */
+.flex { display:flex; }
+#login-ex {
+  flex-direction: column;
+  width: 300px;
+  gap: 0.5em;
+  > .row {
+    display: flex;
+    gap: 1em;
+    > b {
+      flex: 0.5;
+    }
+  }
+}
+
+table {
+  margin-block: 1.5rem;
+  border-collapse: collapse;
+  border:solid 0.1em;
+  text-align: center;
+  thead,.thead { 
+    background-color: #45df85;
+    th,td { padding: 0.5em 1em; }
+  }
+
+  :is(th,td):not(:last-child) {
+    border-right: solid 0.1em;
+  }
+
+  tr:not(:last-child) :is(th,td) {
+    border-bottom: dotted 0.1em;
+  }
+}
