@@ -2,6 +2,8 @@
 :lang(ko) {
   letter-spacing: 0.08em;
   line-height: 1.35;
+  word-break: keep-all;
+  word-wrap: break-word;
 }
 body { background-color: rgb(245 255 251); padding: 0.5em 1.5em;}
 p { margin-block:0.5rem; }
